@@ -1,5 +1,6 @@
 # Stray! is an iOS app that helps you to get unlost using 3D model of your building!
 
++ To run this yourself, clone this repository to your computer and open it with XCode.
 
 ## Mater the UI
 
